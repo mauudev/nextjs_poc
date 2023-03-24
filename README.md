@@ -1,2 +1,2 @@
-# nextjs_poc
+# NextJS POC
 Practica de Nextjs
